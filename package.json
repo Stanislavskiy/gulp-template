@@ -1,0 +1,32 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "Slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://g.geeks.land/digital-panda/hearing-amps-animations"
+  },
+  "author": "stanislavsky.sanya@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "eslint-config-standart": "^0.2.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-build": "^0.5.3",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-dropbox": "^1.2.0",
+    "gulp-eslint": "^5.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.1",
+    "gulp-webserver": "^0.9.1",
+    "run-sequence": "^2.2.1"
+  }
+}
